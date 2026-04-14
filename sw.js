@@ -1,11 +1,11 @@
-const CACHE_NAME = "nennpyo-v3";
+const CACHE_NAME = "nennpyo-v4";
 
 self.addEventListener("install", event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
       return cache.addAll([
         "./",
-        "./nennpyo.html",
+        "./nennpyo2.html",
         "./manifest.json"
       ]);
     })
