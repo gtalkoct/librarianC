@@ -1,0 +1,176 @@
+[
+  {
+    "catalog": "1001",
+    "title": "Sonata No.1",
+    "parts": [
+      {
+        "name": "1 Adagio",
+        "url": "wl0HKVDFKHQ"
+      },
+      {
+        "name": "2 Fuga. Allegro",
+        "url": "RjSG2SVwDMY"
+      },
+      {
+        "name": "3 Siciliana",
+        "url": "-5vrEybRwqk"
+      },
+      {
+        "name": "4 Presto",
+        "url": "ut8PuGVj3wU"
+      }
+    ],
+    "performer": "Henryk Szeryng"
+  },
+  {
+    "catalog": "1002",
+    "title": "Partita No.1",
+    "parts": [
+      {
+        "name": "1 Allemande",
+        "url": "hQ7bLwfvGwY"
+      },
+      {
+        "name": "2 Double",
+        "url": "hNioz-Sw1FY"
+      },
+      {
+        "name": "3 Corrente",
+        "url": "DJc7suJF9Pk"
+      },
+      {
+        "name": "4 Double Presto",
+        "url": "npcyPrLabB8"
+      },
+      {
+        "name": "5 Sarabande",
+        "url": "hcHUO5Tcvnk"
+      },
+      {
+        "name": "6 Double",
+        "url": "5dQolm5Zask"
+      },
+      {
+        "name": "7 Tempo di bourrée",
+        "url": "3EcPQQTrLls"
+      },
+      {
+        "name": "8 Double",
+        "url": "SdxxMyjBwIw"
+      }
+    ],
+    "performer": "Henryk Szeryng"
+  },
+  {
+    "catalog": "1003",
+    "title": "Sonata No.2",
+    "parts": [
+      {
+        "name": "1 Grave",
+        "url": "HGqSQ1-fHAA"
+      },
+      {
+        "name": "2 Fuga",
+        "url": "BTg4UBowMdc"
+      },
+      {
+        "name": "3 Andante",
+        "url": "AQQshAK3vzs"
+      },
+      {
+        "name": "4 Allegro",
+        "url": "Si49fbtQWFM"
+      }
+    ],
+    "performer": "Henryk Szeryng"
+  },
+  {
+    "catalog": "1004",
+    "title": "Partita No.2",
+    "parts": [
+      {
+        "name": "1 Allemande",
+        "url": "v-yFA2kd2DA"
+      },
+      {
+        "name": "2 Courante",
+        "url": "0l9BxMhyoUM"
+      },
+      {
+        "name": "3 Sarabande",
+        "url": "0Ktb_dy3nw4"
+      },
+      {
+        "name": "4 Gigue",
+        "url": "jr_uZNwhBUI"
+      },
+      {
+        "name": "5a Chaconne",
+        "url": "SiNbjuSEURQ"
+      },
+      {
+        "name": "5b Chaconne",
+        "url": "4OYd4GfNE3Y"
+      }
+    ],
+    "performer": "Henryk Szeryng"
+  },
+  {
+    "catalog": "1005",
+    "title": "Sonata No.3",
+    "parts": [
+      {
+        "name": "1 Adagio",
+        "url": "9gGJQiZdEjM"
+      },
+      {
+        "name": "2a Fuga",
+        "url": "DP93RNTK9Xs"
+      },
+      {
+        "name": "2b Fuga",
+        "url": "PxtAt_5G6hw"
+      },
+      {
+        "name": "3 Largo",
+        "url": "_uSgjTHe-fk"
+      },
+      {
+        "name": "4 Allegro assai",
+        "url": "nLjE6NJ4z54"
+      }
+    ],
+    "performer": "Henryk Szeryng"
+  },
+  {
+    "catalog": "1006",
+    "title": "Partita No.3",
+    "parts": [
+      {
+        "name": "1 Preludio",
+        "url": "5xTXXze1Khk"
+      },
+      {
+        "name": "2 Loure",
+        "url": "-459sgCdwN4"
+      },
+      {
+        "name": "3 Gavotte en rondeau",
+        "url": "yU2YydmEo28"
+      },
+      {
+        "name": "4 Menuet I-II",
+        "url": "V8jwNR5aAjY"
+      },
+      {
+        "name": "5 Bourré",
+        "url": "Ge1Tm-kQJVU"
+      },
+      {
+        "name": "6 Gigue",
+        "url": "44Z8q_4SKAo"
+      }
+    ],
+    "performer": "Henryk Szeryng"
+  }
+]
