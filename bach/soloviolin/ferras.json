@@ -1,0 +1,286 @@
+[
+  {
+    "catalog": "1001",
+    "title": "Sonata No.1",
+    "parts": [
+      {
+        "name": "1 Adagio",
+        "url": "mwSeA-LGVZQ",
+        "times": [
+          0,
+          265
+        ]
+      },
+      {
+        "name": "2 Fuga. Allegro",
+        "url": "mwSeA-LGVZQ",
+        "times": [
+          265,
+          591
+        ]
+      },
+      {
+        "name": "3 Siciliana",
+        "url": "mwSeA-LGVZQ",
+        "times": [
+          591,
+          815
+        ]
+      },
+      {
+        "name": "4 Presto",
+        "url": "mwSeA-LGVZQ",
+        "times": [
+          815
+        ]
+      }
+    ],
+    "performer": "Christian Ferras*"
+  },
+  {
+    "catalog": "1002",
+    "title": "Partita No.1",
+    "parts": [
+      {
+        "name": "1 Allemande",
+        "url": "ypSveMGKy3w",
+        "times": [
+          0,
+          301
+        ]
+      },
+      {
+        "name": "2 Double",
+        "url": "ypSveMGKy3w",
+        "times": [
+          301,
+          434
+        ]
+      },
+      {
+        "name": "3 Corrente",
+        "url": "ypSveMGKy3w",
+        "times": [
+          434,
+          652
+        ]
+      },
+      {
+        "name": "4 Double Presto",
+        "url": "ypSveMGKy3w",
+        "times": [
+          652,
+          901
+        ]
+      },
+      {
+        "name": "5 Sarabande",
+        "url": "ypSveMGKy3w",
+        "times": [
+          901,
+          1150
+        ]
+      },
+      {
+        "name": "6 Double",
+        "url": "ypSveMGKy3w",
+        "times": [
+          1150,
+          1271
+        ]
+      },
+      {
+        "name": "7 Tempo di bourrée",
+        "url": "ypSveMGKy3w",
+        "times": [
+          1271,
+          1493
+        ]
+      },
+      {
+        "name": "8 Double",
+        "url": "ypSveMGKy3w",
+        "times": [
+          1493
+        ]
+      }
+    ],
+    "performer": "Christian Ferras*"
+  },
+  {
+    "catalog": "1003",
+    "title": "Sonata No.2",
+    "parts": [
+      {
+        "name": "1 Grave",
+        "url": "UslccljGVNk",
+        "times": [
+          0,
+          231
+        ]
+      },
+      {
+        "name": "2 Fuga",
+        "url": "UslccljGVNk",
+        "times": [
+          231,
+          732
+        ]
+      },
+      {
+        "name": "3 Andante",
+        "url": "UslccljGVNk",
+        "times": [
+          732,
+          1045
+        ]
+      },
+      {
+        "name": "4 Allegro",
+        "url": "UslccljGVNk",
+        "times": [
+          1045
+        ]
+      }
+    ],
+    "performer": "Christian Ferras*"
+  },
+  {
+    "catalog": "1004",
+    "title": "Partita No.2",
+    "parts": [
+      {
+        "name": "1 Allemande",
+        "url": "W7RrssX7rrQ",
+        "times": [
+          0,
+          196
+        ]
+      },
+      {
+        "name": "2 Courante",
+        "url": "W7RrssX7rrQ",
+        "times": [
+          196,
+          368
+        ]
+      },
+      {
+        "name": "3 Sarabande",
+        "url": "W7RrssX7rrQ",
+        "times": [
+          368,
+          637
+        ]
+      },
+      {
+        "name": "4 Gigue",
+        "url": "W7RrssX7rrQ",
+        "times": [
+          637,
+          833
+        ]
+      },
+      {
+        "name": "5 Chaconne",
+        "url": "W7RrssX7rrQ",
+        "times": [
+          833
+        ]
+      }
+    ],
+    "performer": "Christian Ferras*"
+  },
+  {
+    "catalog": "1005",
+    "title": "Sonata No.3",
+    "parts": [
+      {
+        "name": "1 Adagio",
+        "url": "s0Pg3IlwiVE",
+        "times": [
+          0,
+          245
+        ]
+      },
+      {
+        "name": "2 Fuga",
+        "url": "s0Pg3IlwiVE",
+        "times": [
+          245,
+          858
+        ]
+      },
+      {
+        "name": "3 Largo",
+        "url": "s0Pg3IlwiVE",
+        "times": [
+          858,
+          1082
+        ]
+      },
+      {
+        "name": "4 Allegro assai",
+        "url": "s0Pg3IlwiVE",
+        "times": [
+          1082
+        ]
+      }
+    ],
+    "performer": "Christian Ferras*"
+  },
+  {
+    "catalog": "1006",
+    "title": "Partita No.3",
+    "parts": [
+      {
+        "name": "1 Preludio",
+        "url": "-dE9Qjspbd4",
+        "times": [
+          0,
+          225
+        ]
+      },
+      {
+        "name": "2 Loure",
+        "url": "-dE9Qjspbd4",
+        "times": [
+          225,
+          496
+        ]
+      },
+      {
+        "name": "3 Gavotte en rondeau",
+        "url": "-dE9Qjspbd4",
+        "times": [
+          496,
+          673
+        ]
+      },
+      {
+        "name": "4 Menuet I-II",
+        "url": "-dE9Qjspbd4",
+        "times": [
+          673,
+          916
+        ]
+      },
+      {
+        "name": "5 Bourré",
+        "url": "-dE9Qjspbd4",
+        "times": [
+          916,
+          1014
+        ]
+      },
+      {
+        "name": "6 Gigue",
+        "url": "-dE9Qjspbd4",
+        "times": [
+          1014
+        ]
+      }
+    ],
+    "performer": "Christian Ferras*"
+  }
+]
