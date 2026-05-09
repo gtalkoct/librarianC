@@ -1,8 +1,7 @@
 [
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"106",
+"catalog":"106",
 "title":"Gottes Zeit ist die allerbeste Zeit",
 "parts":[
 { "name":"BWV106-1" , "url":"6KXgcJWhlG0" },
@@ -14,8 +13,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"118",
+"catalog":"118",
 "title":"O Jesu Christ, mein's Lebens Licht Motet",
 "parts":[
 { "name":"BWV118-1" , "url":"jUZ1eZ85WvQ" }
@@ -24,8 +22,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"198",
+"catalog":"198",
 "title":"Lass Fürstin, lass noch einen Strahl",
 "parts":[
 { "name":"BWV198-1" , "url":"15raCFmtduY" },
@@ -43,8 +40,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"140",
+"catalog":"140",
 "title":"Wachet auf, ruft uns die Stimme",
 "parts":[
 { "name":"BWV140-1" , "url":"jI9OJ-mfdqI" },
@@ -59,8 +55,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"147",
+"catalog":"147",
 "title":"Herz und Mund und Tat und Leben",
 "parts":[
 { "name":"BWV147-1" , "url":"rPMaIb1fKAQ" },
@@ -78,8 +73,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"61",
+"catalog":"61",
 "title":"Nun komm, der Heiden Heiland",
 "parts":[
 { "name":"BWV61-1" , "url":"WTC0y6QhUwE" },
@@ -93,8 +87,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"36",
+"catalog":"36",
 "title":"Schwingt freudig euch empor",
 "parts":[
 { "name":"BWV36-1" , "url":"A-N9DBmQgu0" },
@@ -110,8 +103,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"62",
+"catalog":"62",
 "title":"Nun komm, der Heiden Heiland",
 "parts":[
 { "name":"BWV62-1" , "url":"FslPUI9pT8c" },
@@ -125,8 +117,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"6",
+"catalog":"6",
 "title":"Bleib bei uns, denn es will Abend werden",
 "parts":[
 { "name":"BWV6-1" , "url":"r5zcuBtfVA0" },
@@ -140,8 +131,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"66",
+"catalog":"66",
 "title":"Erfreut euch, ihr Herzen",
 "parts":[
 { "name":"BWV66-1" , "url":"YSURGpqElTM" },
@@ -155,8 +145,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"72",
+"catalog":"72",
 "title":"Alles nur nach Gottes Willen",
 "parts":[
 { "name":"BWV72-1" , "url":"ofAWe92is98" },
@@ -169,8 +158,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"73",
+"catalog":"73",
 "title":"Herr, wie du willst, so schick's mit mir",
 "parts":[
 { "name":"BWV73-1" , "url":"AJDFzgbaGbw" },
@@ -183,8 +171,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"111",
+"catalog":"111",
 "title":"Was mein Gott will, das g'scheh allzeit",
 "parts":[
 { "name":"BWV111-1" , "url":"TLQb7apnN0U" },
@@ -198,8 +185,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"156",
+"catalog":"156",
 "title":"Ich steh mit einem Fuß im Grabe",
 "parts":[
 { "name":"BWV156-1" , "url":"HWefBwRR4yg" },
@@ -213,8 +199,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"43",
+"catalog":"43",
 "title":"Gott fähret auf mit Jauchzen",
 "parts":[
 { "name":"BWV43-1" , "url":"7-xXosCVUAk" },
@@ -233,8 +218,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"128",
+"catalog":"128",
 "title":"Auf Christi Himmelfahrt allein",
 "parts":[
 { "name":"BWV128-1" , "url":"nyxaKmrdTjA" },
@@ -247,8 +231,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"37",
+"catalog":"37",
 "title":"Wer da gläubet und getauft wird",
 "parts":[
 { "name":"BWV37-1" , "url":"KNICBw4t8gE" },
@@ -262,8 +245,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"11",
+"catalog":"11",
 "title":"Lobet Gott in seinen Reichen",
 "parts":[
 { "name":"BWV11-1" , "url":"UbWkxWwHzuQ" },
@@ -282,8 +264,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"172",
+"catalog":"172",
 "title":"Erschallet, ihr Lieder",
 "parts":[
 { "name":"BWV172-1" , "url":"LyOMdwuloQs" },
@@ -297,8 +278,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"59",
+"catalog":"59",
 "title":"Wer mich liebet, der wird mein Wort halten",
 "parts":[
 { "name":"BWV59-1" , "url":"_r_ZVf1x0Xw" },
@@ -311,8 +291,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"74",
+"catalog":"74",
 "title":"Wer mich liebet, der wird mein Wort halten",
 "parts":[
 { "name":"BWV74-1" , "url":"nzguirBOi2w" },
@@ -328,8 +307,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"34",
+"catalog":"34",
 "title":"O ewiges Feuer, o Ursprung der Liebe",
 "parts":[
 { "name":"BWV34-1" , "url":"EtTRQzXpe24" },
@@ -342,8 +320,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"83",
+"catalog":"83",
 "title":"Erfreute Zeit im neuen Bunde",
 "parts":[
 { "name":"BWV83-1" , "url":"ZDWOVsU9ROQ" },
@@ -356,8 +333,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"82",
+"catalog":"82",
 "title":"Ich habe genug",
 "parts":[
 { "name":"BWV82-1" , "url":"0xq-UuUdGjw" },
@@ -370,8 +346,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"125",
+"catalog":"125",
 "title":"Mit Fried und Freud ich fahr dahin",
 "parts":[
 { "name":"BWV125-1" , "url":"rsxI9B6xeyM" },
@@ -385,8 +360,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"200",
+"catalog":"200",
 "title":"Bekennen will ich seinen Namen",
 "parts":[
 { "name":"BWV200-1" , "url":"Z7J7mLGdX_U" }
@@ -395,8 +369,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"98",
+"catalog":"98",
 "title":"Was Gott tut, das ist wohlgetan",
 "parts":[
 { "name":"BWV98-1" , "url":"xQpgFZCZ-8A" },
@@ -409,8 +382,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"139",
+"catalog":"139",
 "title":"Wohl dem, der sich auf seinen Gott",
 "parts":[
 { "name":"BWV139-1" , "url":"Vl57wYyXccU" },
@@ -424,8 +396,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"16",
+"catalog":"16",
 "title":"Herr Gott, dich loben wir",
 "parts":[
 { "name":"BWV16-1" , "url":"VxH8okejtDY" },
@@ -439,8 +410,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"63",
+"catalog":"63",
 "title":"Christen, ätzet diesen Tag",
 "parts":[
 { "name":"BWV63-1" , "url":"laCMomHPt5A" },
@@ -455,8 +425,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"64",
+"catalog":"64",
 "title":"Sehet, welch eine Liebe",
 "parts":[
 { "name":"BWV64-1" , "url":"enV7Y129-1o" },
@@ -472,8 +441,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"121",
+"catalog":"121",
 "title":"Christum wir sollen loben schon",
 "parts":[
 { "name":"BWV121-1" , "url":"HEbtD4Y1vc8" },
@@ -487,8 +455,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"133",
+"catalog":"133",
 "title":"Ich freue mich in Dir",
 "parts":[
 { "name":"BWV133-1" , "url":"bdE6tRa9as0" },
@@ -502,8 +469,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"94",
+"catalog":"94",
 "title":"Was frag ich nach der Welt",
 "parts":[
 { "name":"BWV94-1" , "url":"yrVgj61_RgI" },
@@ -519,8 +485,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"168",
+"catalog":"168",
 "title":"Tue Rechnung! Donnerwort",
 "parts":[
 { "name":"BWV168-1" , "url":"v9fESNGQA9A" },
@@ -534,8 +499,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"105",
+"catalog":"105",
 "title":"Herr, gehe nicht ins Gericht mit deinem Knecht",
 "parts":[
 { "name":"BWV105-1" , "url":"xXTWeRrz4Ic" },
@@ -549,8 +513,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"179",
+"catalog":"179",
 "title":"Siehe zu, daß Deine Gottesfurcht",
 "parts":[
 { "name":"BWV179-1" , "url":"1rfAJ5NKK_o" },
@@ -564,8 +527,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"199",
+"catalog":"199",
 "title":"Mein Herze schwimmt im Blut",
 "parts":[
 { "name":"BWV199-1" , "url":"PJ6jAIVlAa8" },
@@ -581,8 +543,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"113",
+"catalog":"113",
 "title":"Herr Jesu Christ",
 "parts":[
 { "name":"BWV113-1" , "url":"qqBFrdhW8a4" },
@@ -598,8 +559,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"167",
+"catalog":"167",
 "title":"Ihr Menschen, ruhmet Gottes Liebe",
 "parts":[
 { "name":"BWV167-1" , "url":"u2NKmWxDpD4" },
@@ -612,8 +572,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"7",
+"catalog":"7",
 "title":"Christ unser Herr zum Jordan kam",
 "parts":[
 { "name":"BWV7-1" , "url":"ufubCjd8DsI" },
@@ -628,8 +587,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"30",
+"catalog":"30",
 "title":"Freue dich, erloste Schar",
 "parts":[
 { "name":"BWV30-1" , "url":"OUoB4QzKr7A" },
@@ -649,8 +607,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"75",
+"catalog":"75",
 "title":"Die Elenden sollen essen",
 "parts":[
 { "name":"BWV75-1" , "url":"-VHJh3H747s" },
@@ -672,8 +629,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"39",
+"catalog":"39",
 "title":"Brich dem Hungrigen dein Brot",
 "parts":[
 { "name":"BWV39-1" , "url":"gZauSAlEjlM" },
@@ -688,8 +644,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"20",
+"catalog":"20",
 "title":"O Ewigkeit, du Donnerwort",
 "parts":[
 { "name":"BWV20-1" , "url":"2HouQU_diQk" },
@@ -708,8 +663,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"2",
+"catalog":"2",
 "title":"Ach Gott, vom Himmel sieh darein",
 "parts":[
 { "name":"BWV2-1" , "url":"Dj0LYp34bDg" },
@@ -723,8 +677,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"10",
+"catalog":"10",
 "title":"Meine Seel erhebt den Herren",
 "parts":[
 { "name":"BWV10-1" , "url":"xX5BPTFSvUQ" },
@@ -739,8 +692,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"386",
+"catalog":"386",
 "title":"Geistliche Chormusik, Op. 11: No. 18. Die Himmel erzahlen die Ehre Gottes",
 "parts":[
 { "name":"BWV386-1" , "url":"HlhXnNslv4M" }
@@ -749,8 +701,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"76",
+"catalog":"76",
 "title":"Die Himmel erzahlen die Ehre Gottes, und die",
 "parts":[
 { "name":"BWV76-1" , "url":"_BiXBJ3xCdQ" },
@@ -772,8 +723,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"21",
+"catalog":"21",
 "title":"Ich hatte viel Bekummernis",
 "parts":[
 { "name":"BWV21-1" , "url":"hGB783AfiZg" },
@@ -792,8 +742,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"135",
+"catalog":"135",
 "title":"Ach Herr, mich armen Sunder",
 "parts":[
 { "name":"BWV135-1" , "url":"wmIG40ZgLMY" },
@@ -807,8 +756,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"1044",
+"catalog":"1044",
 "title":"Concerto for Flute, Violin and Harpsichord in A Minor",
 "parts":[
 { "name":"BWV1044-1" , "url":"55NUYDZHDHs" },
@@ -819,8 +767,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"24",
+"catalog":"24",
 "title":"Ein ungefarbt Gemute",
 "parts":[
 { "name":"BWV24-1" , "url":"2_k91vpCb-k" },
@@ -834,8 +781,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"185",
+"catalog":"185",
 "title":"Barmherziges Herze der ewigen Liebe",
 "parts":[
 { "name":"BWV185-1" , "url":"0o9PszY010A" },
@@ -849,8 +795,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"177",
+"catalog":"177",
 "title":"Ich ruf zu dir, Herr Jesu Christ",
 "parts":[
 { "name":"BWV177-1" , "url":"qHulwPe2yHs" },
@@ -863,8 +808,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"71",
+"catalog":"71",
 "title":"Gott ist mein Konig von altersher",
 "parts":[
 { "name":"BWV71-1" , "url":"XxsTJRtR5oE" },
@@ -879,8 +823,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"131",
+"catalog":"131",
 "title":"Aus der Tiefen rufe ich, Herr, zu dir",
 "parts":[
 { "name":"BWV131-1" , "url":"iEO-IAM5TU0" },
@@ -893,8 +836,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"93",
+"catalog":"93",
 "title":"Wer nur den lieben Gott lasst walten",
 "parts":[
 { "name":"BWV93-1" , "url":"BNK46bi0pG0" },
@@ -909,8 +851,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"88",
+"catalog":"88",
 "title":"Siehe, ich will viel Fischer aussenden",
 "parts":[
 { "name":"BWV88-1" , "url":"hEB0U4cX40M" },
@@ -925,8 +866,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"9",
+"catalog":"9",
 "title":"Es ist das Heil uns kommen her",
 "parts":[
 { "name":"BWV9-1" , "url":"1RK2SqD7gmM" },
@@ -941,8 +881,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"170",
+"catalog":"170",
 "title":"Vergnugte Ruh, beliebte Seelenlust, ",
 "parts":[
 { "name":"BWV170-1" , "url":"HezSgE7cBto" },
@@ -955,8 +894,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"1149",
+"catalog":"1149",
 "title":"Der Gerechte kommt um",
 "parts":[
 { "name":"BWV1149-1" , "url":"tRYIQHJc7js" }
@@ -965,8 +903,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"186",
+"catalog":"186",
 "title":"Argre dich, o Seele, nicht",
 "parts":[
 { "name":"BWV186-1" , "url":"p5pFGcnToKM" },
@@ -985,8 +922,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"107",
+"catalog":"107",
 "title":"Was willst du dich betruben",
 "parts":[
 { "name":"BWV107-1" , "url":"ludZa4OfTYU" },
@@ -1001,8 +937,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"187",
+"catalog":"187",
 "title":"Es wartet alles auf dich",
 "parts":[
 { "name":"BWV187-1" , "url":"qrHJ5WNKw2g" },
@@ -1017,8 +952,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"178",
+"catalog":"178",
 "title":"Wo Gott der Herr nicht bei uns halt",
 "parts":[
 { "name":"BWV178-1" , "url":"k15zE53R4rs" },
@@ -1033,8 +967,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"136",
+"catalog":"136",
 "title":"Erforsche mich, Gott, und erfahre mein Herz",
 "parts":[
 { "name":"BWV136-1" , "url":"BxouwVai8wc" },
@@ -1048,8 +981,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"45",
+"catalog":"45",
 "title":"Es ist dir gesagt, Mensch, was gut ist",
 "parts":[
 { "name":"BWV45-1" , "url":"cs4ktgp47xs" },
@@ -1064,8 +996,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"46",
+"catalog":"46",
 "title":"Schauet doch und sehet, ob irgend ein Schmerz sei",
 "parts":[
 { "name":"BWV46-1" , "url":"XE4AjRlzTWY" },
@@ -1079,8 +1010,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"101",
+"catalog":"101",
 "title":"Nimm von uns Herr, du treuer Gott",
 "parts":[
 { "name":"BWV101-1" , "url":"DHxMMPX0eXo" },
@@ -1095,8 +1025,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"102",
+"catalog":"102",
 "title":"Herr, deine Augen sehen nach dem Glauben",
 "parts":[
 { "name":"BWV102-1" , "url":"Vzu4AIgDRkE" },
@@ -1111,8 +1040,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"69a",
+"catalog":"69a",
 "title":"Lobe den Herrn, meine Seele",
 "parts":[
 { "name":"BWV69a-1" , "url":"eTbkAEonS0M" },
@@ -1126,8 +1054,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"35",
+"catalog":"35",
 "title":"Geist und Seele wird verwirret",
 "parts":[
 { "name":"BWV35-1" , "url":"gKlFHEEFkV8" },
@@ -1142,8 +1069,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"137",
+"catalog":"137",
 "title":"Lobe den Herren, den machtigen Konig der Ehren",
 "parts":[
 { "name":"BWV137-1" , "url":"kNzRYOVSPgU" },
@@ -1156,8 +1082,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"77",
+"catalog":"77",
 "title":"Du sollt Gott, deinen Herren, lieben",
 "parts":[
 { "name":"BWV77-1" , "url":"C57n_kPG49Y" },
@@ -1171,8 +1096,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"164",
+"catalog":"164",
 "title":"Ihr, die ihr euch von Christo nennet",
 "parts":[
 { "name":"BWV164-1" , "url":"ADoSMociX0I" },
@@ -1186,8 +1110,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"33",
+"catalog":"33",
 "title":"Allein zu dir, Herr Jesu Christ",
 "parts":[
 { "name":"BWV33-1" , "url":"3i61kiPEm3U" },
@@ -1201,8 +1124,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"25",
+"catalog":"25",
 "title":"Es ist nichts Gesundes an meinem Leibe",
 "parts":[
 { "name":"BWV25-1" , "url":"f3JfN78uc_w" },
@@ -1216,8 +1138,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"78",
+"catalog":"78",
 "title":"Jesu, der du meine Seele",
 "parts":[
 { "name":"BWV78-1" , "url":"J-PSkl-Wmj8" },
@@ -1232,8 +1153,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"17",
+"catalog":"17",
 "title":"Wer Dank opfert, der preiset mich",
 "parts":[
 { "name":"BWV17-1" , "url":"vMSk0h8-cHA" },
@@ -1248,8 +1168,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"50",
+"catalog":"50",
 "title":"Nun ist das Heil und die Kraft",
 "parts":[
 { "name":"BWV50-1" , "url":"lLOFc520DpE" }
@@ -1258,8 +1177,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"130",
+"catalog":"130",
 "title":"Herr Gott, dich loben alle wir",
 "parts":[
 { "name":"BWV130-1" , "url":"lCpOrQKV56k" },
@@ -1273,8 +1191,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"19",
+"catalog":"19",
 "title":"Es erhub sich ein Streit",
 "parts":[
 { "name":"BWV19-1" , "url":"nMCHE_lalQk" },
@@ -1289,8 +1206,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"149",
+"catalog":"149",
 "title":"Man singet mit Freuden vom Sieg",
 "parts":[
 { "name":"BWV149-1" , "url":"LekCZkkuGdQ" },
@@ -1305,8 +1221,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"138",
+"catalog":"138",
 "title":"Warum betrübst du dich, mein Herz",
 "parts":[
 { "name":"BWV138-1" , "url":"uC133cfOB28" },
@@ -1321,8 +1236,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"99",
+"catalog":"99",
 "title":"Was Gott tut, das ist wohlgetan",
 "parts":[
 { "name":"BWV99-1" , "url":"_XwwrF6CZ9E" },
@@ -1336,8 +1250,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"51",
+"catalog":"51",
 "title":"Jauchzet Gott in allen Landen!",
 "parts":[
 { "name":"BWV51-1" , "url":"bkpuTh7EWfk" },
@@ -1350,8 +1263,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"100",
+"catalog":"100",
 "title":"Was Gott tut, das ist wohlgetan",
 "parts":[
 { "name":"BWV100-1" , "url":"q5nnWq-4t8k" },
@@ -1365,8 +1277,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"161",
+"catalog":"161",
 "title":"Komm, du susse Todesstunde",
 "parts":[
 { "name":"BWV161-1" , "url":"g90g8TZnGO4" },
@@ -1380,8 +1291,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"27",
+"catalog":"27",
 "title":"Wer weiss, wie nahe mir mein Ende!",
 "parts":[
 { "name":"BWV27-1" , "url":"cNLtdJtnaiA" },
@@ -1395,8 +1305,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"8",
+"catalog":"8",
 "title":"Liebster Gott, wenn werd ich sterben?",
 "parts":[
 { "name":"BWV8-1" , "url":"66w14ycs1dM" },
@@ -1410,8 +1319,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"95",
+"catalog":"95",
 "title":"Christus, der ist mein Leben",
 "parts":[
 { "name":"BWV95-1" , "url":"1IueJvz9slU" },
@@ -1426,8 +1334,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"148",
+"catalog":"148",
 "title":"Bringet dem Herrn Ehre seines Namens",
 "parts":[
 { "name":"BWV148-1" , "url":"LDUP3675iHU" },
@@ -1441,8 +1348,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"114",
+"catalog":"114",
 "title":"Ach, lieben Christen, seid getrost",
 "parts":[
 { "name":"BWV114-1" , "url":"iYGnO92iDW0" },
@@ -1457,8 +1363,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"47",
+"catalog":"47",
 "title":"Wer sich selbst erhohet, der soll erniedriget werden",
 "parts":[
 { "name":"BWV47-1" , "url":"-5yCiPyCut0" },
@@ -1471,8 +1376,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"226",
+"catalog":"226",
 "title":"Der Geist hilft unser Schwachheit auf",
 "parts":[
 { "name":"BWV226-1" , "url":"8w9lD1cl21M" }
@@ -1481,8 +1385,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"96",
+"catalog":"96",
 "title":"Herr Christ, der einge Gottessohn",
 "parts":[
 { "name":"BWV96-1" , "url":"nk_pdf0rB1o" },
@@ -1496,8 +1399,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"169",
+"catalog":"169",
 "title":"Gott soll allein mein Herze haben",
 "parts":[
 { "name":"BWV169-1" , "url":"5UwN-BzelL0" },
@@ -1512,8 +1414,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"116",
+"catalog":"116",
 "title":"Du Friedefurst, Herr Jesu Christ",
 "parts":[
 { "name":"BWV116-1" , "url":"k9saQND61BY" },
@@ -1527,8 +1428,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"668",
+"catalog":"668",
 "title":"Vor deinen Thron tret ich hiermit",
 "parts":[
 { "name":"BWV668-1" , "url":"JcgOamASFd8" }
@@ -1537,8 +1437,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"48",
+"catalog":"48",
 "title":"Ich elender Mensch, wer wird mich erlosen",
 "parts":[
 { "name":"BWV48-1" , "url":"91hYkbqxkWw" },
@@ -1553,8 +1452,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"5",
+"catalog":"5",
 "title":"Wo soll ich fliehen hin",
 "parts":[
 { "name":"BWV5-1" , "url":"vBcqfOLOink" },
@@ -1569,8 +1467,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"90",
+"catalog":"90",
 "title":"Es reisset euch ein schrecklich Ende",
 "parts":[
 { "name":"BWV90-1" , "url":"-gXrLPq7rAk" },
@@ -1583,8 +1480,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"56",
+"catalog":"56",
 "title":"Ich will den Kreuzstab gerne tragen",
 "parts":[
 { "name":"BWV56-1" , "url":"iuQN_m4oeeg" },
@@ -1597,8 +1493,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"79",
+"catalog":"79",
 "title":"Gott der Herr ist Sonn und Schild",
 "parts":[
 { "name":"BWV79-1" , "url":"vTcqVELh2e4" },
@@ -1612,8 +1507,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"192",
+"catalog":"192",
 "title":"Nun danket alle Gott",
 "parts":[
 { "name":"BWV192-1" , "url":"3QmrpV7n0QY" },
@@ -1624,8 +1518,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"80",
+"catalog":"80",
 "title":"Ein feste Burg ist unser Gott",
 "parts":[
 { "name":"BWV80-1" , "url":"S_q_SkjBFD0" },
@@ -1641,8 +1534,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"162",
+"catalog":"162",
 "title":"Ach, ich sehe, itzt, da ich zur Hochzeit gehe",
 "parts":[
 { "name":"BWV162-1" , "url":"JBaep3Een7U" },
@@ -1656,8 +1548,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"49",
+"catalog":"49",
 "title":"Ich geh und suche mit Verlangen",
 "parts":[
 { "name":"BWV49-1" , "url":"axBXW6YDRv0" },
@@ -1671,8 +1562,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"180",
+"catalog":"180",
 "title":"Schmücke dich, o liebe Seele",
 "parts":[
 { "name":"BWV180-1" , "url":"3ViUmOcAu-4" },
@@ -1687,8 +1577,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"109",
+"catalog":"109",
 "title":"Ich glaube, lieber Herr, hilf meinen Unglauben",
 "parts":[
 { "name":"BWV109-1" , "url":"O5P9JojfoYE" },
@@ -1702,8 +1591,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"38",
+"catalog":"38",
 "title":"Aus tiefer Not schrei ich zu dir",
 "parts":[
 { "name":"BWV38-1" , "url":"2XifjJE9oOU" },
@@ -1717,8 +1605,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"98",
+"catalog":"98",
 "title":"Was Gott tut, das ist wohlgetan",
 "parts":[
 { "name":"BWV98-1" , "url":"GzhJJ75x0z0" },
@@ -1731,8 +1618,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"188",
+"catalog":"188",
 "title":"Ich habe meine Zuversicht",
 "parts":[
 { "name":"BWV188-1" , "url":"77M8iGxmYtg" },
@@ -1746,8 +1632,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"55",
+"catalog":"55",
 "title":"Ich armer Mensch, ich Sundenknecht",
 "parts":[
 { "name":"BWV55-1" , "url":"LM_fr0HAkao" },
@@ -1760,8 +1645,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"89",
+"catalog":"89",
 "title":"Was soll ich aus dir machen, Ephraim",
 "parts":[
 { "name":"BWV89-1" , "url":"I5E0FOwovtM" },
@@ -1775,8 +1659,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"115",
+"catalog":"115",
 "title":"Mache dich, mein Geist, bereit",
 "parts":[
 { "name":"BWV115-1" , "url":"hnJZDhcX6Q0" },
@@ -1790,8 +1673,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"60",
+"catalog":"60",
 "title":"O Ewigkeit, du Donnerwort",
 "parts":[
 { "name":"BWV60-1" , "url":"gMZAovc7IrM" },
@@ -1804,8 +1686,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"139",
+"catalog":"139",
 "title":"Wohl dem, der sich auf seinen Gott",
 "parts":[
 { "name":"BWV139-1" , "url":"1DQgJwTfjSk" },
@@ -1819,8 +1700,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"163",
+"catalog":"163",
 "title":"Nur jedem das Seine",
 "parts":[
 { "name":"BWV163-1" , "url":"hcWmwE2Io-k" },
@@ -1834,8 +1714,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"52",
+"catalog":"52",
 "title":"Falsche Welt, dir trau ich nicht",
 "parts":[
 { "name":"BWV52-1" , "url":"oR0HkagaI5E" },
@@ -1849,8 +1728,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"140",
+"catalog":"140",
 "title":"Wachet auf, ruft uns die Stimme",
 "parts":[
 { "name":"BWV140-1" , "url":"EKm_54TwS_w" },
@@ -1865,8 +1743,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"61",
+"catalog":"61",
 "title":"Nun komm, der Heiden Heiland",
 "parts":[
 { "name":"BWV61-1" , "url":"GJoq2EXR_UI" },
@@ -1880,8 +1757,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"389",
+"catalog":"389",
 "title":"Choralgesänge: Nun komm, der Heiden Heiland",
 "parts":[
 { "name":"BWV389-1" , "url":"r9lBOKatTfA" },
@@ -1895,8 +1771,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"36",
+"catalog":"36",
 "title":"Schwingt freudig euch empor",
 "parts":[
 { "name":"BWV36-1" , "url":"MimSZTfmF4M" },
@@ -1912,8 +1787,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"70",
+"catalog":"70",
 "title":"Wachet! betet! betet! wachet!",
 "parts":[
 { "name":"BWV70-1" , "url":"vzM5xpgcCes" },
@@ -1932,8 +1806,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"132",
+"catalog":"132",
 "title":"Bereitet die Wege, bereitet die Bahn",
 "parts":[
 { "name":"BWV132-1" , "url":"VN_jjP70gLQ" },
@@ -1947,8 +1820,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"147",
+"catalog":"147",
 "title":"Herz und Mund und Tat und Leben",
 "parts":[
 { "name":"BWV147-1" , "url":"lhsoBKis_C0" },
@@ -1966,8 +1838,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"91",
+"catalog":"91",
 "title":"Gelobet seist du, Jesu Christ",
 "parts":[
 { "name":"BWV91-1" , "url":"RqGtOXYkyps" },
@@ -1981,8 +1852,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"121",
+"catalog":"121",
 "title":"Christum wir sollen loben schon",
 "parts":[
 { "name":"BWV121-1" , "url":"lZnyWBB6Thw" },
@@ -1996,8 +1866,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"40",
+"catalog":"40",
 "title":"Dazu ist erschienen der Sohn Gottes",
 "parts":[
 { "name":"BWV40-1" , "url":"WXx_XlX121I" },
@@ -2013,8 +1882,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"110",
+"catalog":"110",
 "title":"Unser Mund sei voll Lachens",
 "parts":[
 { "name":"BWV110-1" , "url":"9x6_kRAh0vw" },
@@ -2029,8 +1897,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"64",
+"catalog":"64",
 "title":"Sehet, welch eine Liebe hat uns der Vater erzeiget",
 "parts":[
 { "name":"BWV64-1" , "url":"awWkbX-R8xY" },
@@ -2046,8 +1913,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"151",
+"catalog":"151",
 "title":"Süsser Trost, mein Jesus kömmt",
 "parts":[
 { "name":"BWV151-1" , "url":"lciDYGoOMOQ" },
@@ -2060,8 +1926,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"57",
+"catalog":"57",
 "title":"Selig ist der Mann",
 "parts":[
 { "name":"BWV57-1" , "url":"jG_Pd1SEug0" },
@@ -2077,8 +1942,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"133",
+"catalog":"133",
 "title":"Ich freue mich in dir",
 "parts":[
 { "name":"BWV133-1" , "url":"2vdbQiMXvxg" },
@@ -2092,8 +1956,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"225",
+"catalog":"225",
 "title":"Singet dem Herrn ein neues Lied",
 "parts":[
 { "name":"BWV225-1" , "url":"cPovFFkxiG8" }
@@ -2102,8 +1965,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"152",
+"catalog":"152",
 "title":"Tritt auf die Glaubensbahn",
 "parts":[
 { "name":"BWV152-1" , "url":"Y2vpUB3aGKs" },
@@ -2117,8 +1979,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"122",
+"catalog":"122",
 "title":"Das neugeborne Kindelein",
 "parts":[
 { "name":"BWV122-1" , "url":"9VCdE_KMedE" },
@@ -2132,8 +1993,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"28",
+"catalog":"28",
 "title":"Gottlob! Nun geht das Jahr zu Ende",
 "parts":[
 { "name":"BWV28-1" , "url":"RMnFdS31Lso" },
@@ -2147,8 +2007,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"190",
+"catalog":"190",
 "title":"Singet dem Herrn ein neues Lied",
 "parts":[
 { "name":"BWV190-1" , "url":"xWokr6Ol3-Y" },
@@ -2163,8 +2022,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"143",
+"catalog":"143",
 "title":"Lobe den Herrn, meine Seele",
 "parts":[
 { "name":"BWV143-1" , "url":"8uUeWTqlpd4" },
@@ -2179,8 +2037,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"41",
+"catalog":"41",
 "title":"Jesu, nun sei gepreiset",
 "parts":[
 { "name":"BWV41-1" , "url":"hbsWCqUiJBA" },
@@ -2194,8 +2051,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"16",
+"catalog":"16",
 "title":"Herr Gott, dich loben wir",
 "parts":[
 { "name":"BWV16-1" , "url":"KwcbmT9paLw" },
@@ -2209,8 +2065,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"171",
+"catalog":"171",
 "title":"Gott, wie dein Name, so ist auch dein Ruhm",
 "parts":[
 { "name":"BWV171-1" , "url":"M2Elnr6AChk" },
@@ -2224,8 +2079,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"153",
+"catalog":"153",
 "title":"Schau, lieber Gott, wie meine Feind",
 "parts":[
 { "name":"BWV153-1" , "url":"HclWoKDj4g4" },
@@ -2242,8 +2096,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"58",
+"catalog":"58",
 "title":"Ach Gott, wie manches Herzeleid",
 "parts":[
 { "name":"BWV58-1" , "url":"eJ-vH94F5rM" },
@@ -2256,8 +2109,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"63",
+"catalog":"63",
 "title":"Christen, ätzet diesen Tag",
 "parts":[
 { "name":"BWV63-1" , "url":"w7BHFmYWju4" },
@@ -2272,8 +2124,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"191",
+"catalog":"191",
 "title":"Gloria in excelsis Deo",
 "parts":[
 { "name":"BWV191-1" , "url":"rLnoaKokX3w" },
@@ -2284,8 +2135,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"65",
+"catalog":"65",
 "title":"Sie werden aus Saba alle kommen",
 "parts":[
 { "name":"BWV65-1" , "url":"yPC-gMZxq3s" },
@@ -2300,8 +2150,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"123",
+"catalog":"123",
 "title":"Liebster Immanuel, Herzog der Frommen",
 "parts":[
 { "name":"BWV123-1" , "url":"4yZK6Rwjl3o" },
@@ -2315,8 +2164,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"154",
+"catalog":"154",
 "title":"Mein liebster Jesus ist verloren",
 "parts":[
 { "name":"BWV154-1" , "url":"3LerbgnTOkA" },
@@ -2332,8 +2180,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"124",
+"catalog":"124",
 "title":"Meinen Jesum lass ich nicht",
 "parts":[
 { "name":"BWV124-1" , "url":"pm_qPH0qQUM" },
@@ -2347,8 +2194,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"32",
+"catalog":"32",
 "title":"Liebster Jesu, mein Verlangen",
 "parts":[
 { "name":"BWV32-1" , "url":"3y7Y3I-DdiU" },
@@ -2362,8 +2208,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"155",
+"catalog":"155",
 "title":"Mein Gott, wie lang, ach lange?",
 "parts":[
 { "name":"BWV155-1" , "url":"ExicfEVE3pY" },
@@ -2376,8 +2221,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"3",
+"catalog":"3",
 "title":"Ach Gott, wie manches Herzeleid",
 "parts":[
 { "name":"BWV3-1" , "url":"T1axGYha8LQ" },
@@ -2391,8 +2235,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"13",
+"catalog":"13",
 "title":"Meine Seufzer, meine Tranen",
 "parts":[
 { "name":"BWV13-1" , "url":"hNDZu9S7cFc" },
@@ -2406,8 +2249,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"26",
+"catalog":"26",
 "title":"Ach wie fluchtig, ach wie nichtig",
 "parts":[
 { "name":"BWV26-1" , "url":"s91mzCMdr9k" },
@@ -2421,8 +2263,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"81",
+"catalog":"81",
 "title":"Jesus schlaft, was soll ich hoffen?",
 "parts":[
 { "name":"BWV81-1" , "url":"PqcfYN69bpU" },
@@ -2437,8 +2278,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"14",
+"catalog":"14",
 "title":"War Gott nicht mit uns diese Zeit",
 "parts":[
 { "name":"BWV14-1" , "url":"0RgWVDN4QmY" },
@@ -2451,8 +2291,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"227",
+"catalog":"227",
 "title":"Jesu, meine Freude",
 "parts":[
 { "name":"BWV227-1" , "url":"d9gu4WwI48k" },
@@ -2471,8 +2310,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"144",
+"catalog":"144",
 "title":"Nimm, was dein ist, und gehe hin",
 "parts":[
 { "name":"BWV144-1" , "url":"Bon-Vr3KJeM" },
@@ -2486,8 +2324,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"84",
+"catalog":"84",
 "title":"Gott ist mir ja nichts schuldig",
 "parts":[
 { "name":"BWV84-1" , "url":"eO2xJqK_82I" },
@@ -2500,8 +2337,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"92",
+"catalog":"92",
 "title":"ch hab in Gottes Herz und Sinn",
 "parts":[
 { "name":"BWV92-1" , "url":"aDscSy_0F1Q" },
@@ -2518,8 +2354,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"18",
+"catalog":"18",
 "title":"leichwie der Regen und Schnee vom Himmel fällt",
 "parts":[
 { "name":"BWV18-1" , "url":"crAN_OQ7FKg" },
@@ -2532,8 +2367,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"181",
+"catalog":"181",
 "title":"eichtgesinnte Flattergeister",
 "parts":[
 { "name":"BWV181-1" , "url":"88zX_BUqRpY" },
@@ -2546,8 +2380,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"126",
+"catalog":"126",
 "title":"rhalt uns, Herr, bei deinem Wort",
 "parts":[
 { "name":"BWV126-1" , "url":"CD-YwyAIIf4" },
@@ -2561,8 +2394,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"22",
+"catalog":"22",
 "title":"Jesus nahm zu sich die Zwölfe",
 "parts":[
 { "name":"BWV22-1" , "url":"mVsSoI5WJjE" },
@@ -2575,8 +2407,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"23",
+"catalog":"23",
 "title":"Du wahrer Gott und Davids Sohn",
 "parts":[
 { "name":"BWV23-1" , "url":"n-O5RpoSjNc" },
@@ -2588,8 +2419,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"127",
+"catalog":"127",
 "title":"Herr Jesu Christ, wahr' Mensch und Gott",
 "parts":[
 { "name":"BWV127-1" , "url":"UNSNd1zOgzU" },
@@ -2602,8 +2432,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"159",
+"catalog":"159",
 "title":"Sehet, wir gehn hinauf gen Jerusalem",
 "parts":[
 { "name":"BWV159-1" , "url":"ucIac79zkxg" },
@@ -2616,8 +2445,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"127",
+"catalog":"127",
 "title":"Herr Jesu Christ, wahr’ Mensch und Gott",
 "parts":[
 { "name":"BWV127-1" , "url":"YoFwCN_snuU" }
@@ -2626,8 +2454,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"182",
+"catalog":"182",
 "title":"Himmelskönig, sei willkommen",
 "parts":[
 { "name":"BWV182-1" , "url":"eh1k06zQ4EQ" },
@@ -2643,8 +2470,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"54",
+"catalog":"54",
 "title":"Widerstehe doch der Sunde",
 "parts":[
 { "name":"BWV54-1" , "url":"k0ghOU8ORPc" },
@@ -2655,8 +2481,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"1",
+"catalog":"1",
 "title":"Wie schon leuchtet der Morgenstern",
 "parts":[
 { "name":"BWV1-1" , "url":"bTpNU88utKY" },
@@ -2670,8 +2495,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"4",
+"catalog":"4",
 "title":"Christ lag in Todes Banden",
 "parts":[
 { "name":"BWV4-1" , "url":"Yhw0ek9fVxg" },
@@ -2687,8 +2511,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"31",
+"catalog":"31",
 "title":"Der Himmel lacht! Die Erde jubilieret",
 "parts":[
 { "name":"BWV31-1" , "url":"3uYn82J2RjM" },
@@ -2705,8 +2528,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"66",
+"catalog":"66",
 "title":"Erfreut euch, ihr Herzen",
 "parts":[
 { "name":"BWV66-1" , "url":"z3lkRdCh8Qk" },
@@ -2720,8 +2542,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"6",
+"catalog":"6",
 "title":"Bleib bei uns, denn es will Abend werden",
 "parts":[
 { "name":"BWV6-1" , "url":"G0jlM04OK0o" },
@@ -2735,8 +2556,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"134",
+"catalog":"134",
 "title":"Ein Herz, das seinen Jesum lebend weiss",
 "parts":[
 { "name":"BWV134-1" , "url":"KI9O0-mKKAE" },
@@ -2750,8 +2570,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"145",
+"catalog":"145",
 "title":"Ich lebe, mein Herze, zu deinem Ergotzen",
 "parts":[
 { "name":"BWV145-1" , "url":"sDQnLJT2x_Y" },
@@ -2764,8 +2583,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"150",
+"catalog":"150",
 "title":"Nach dir, Herr, verlanget mich",
 "parts":[
 { "name":"BWV150-1" , "url":"tOxvkhLv9WE" },
@@ -2780,8 +2598,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"67",
+"catalog":"67",
 "title":"Halt im Gedachtnis Jesum Christ",
 "parts":[
 { "name":"BWV67-1" , "url":"_vhPA1MWFn8" },
@@ -2796,8 +2613,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"42",
+"catalog":"42",
 "title":"Am Abend aber desselbigen Sabbats",
 "parts":[
 { "name":"BWV42-1" , "url":"gsWsIKMecxo" },
@@ -2812,8 +2628,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"158",
+"catalog":"158",
 "title":"Der Friede sei mit dir",
 "parts":[
 { "name":"BWV158-1" , "url":"q1cmbfaMqaQ" },
@@ -2825,8 +2640,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"104",
+"catalog":"104",
 "title":"Du Hirte Israel, hore",
 "parts":[
 { "name":"BWV104-1" , "url":"gpcFDfdZZWc" },
@@ -2840,8 +2654,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"85",
+"catalog":"85",
 "title":"Ich bin ein guter Hirt",
 "parts":[
 { "name":"BWV85-1" , "url":"uiGFSuwihZc" },
@@ -2855,8 +2668,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"112",
+"catalog":"112",
 "title":"Der Herr ist mein getreuer Hirt",
 "parts":[
 { "name":"BWV112-1" , "url":"S_86323ZrY4" },
@@ -2869,8 +2681,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"12",
+"catalog":"12",
 "title":"Weinen, Klagen",
 "parts":[
 { "name":"BWV12-1" , "url":"tUmVGvDs-a4" },
@@ -2885,8 +2696,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"103",
+"catalog":"103",
 "title":"Ihr werdet weinen und heulen",
 "parts":[
 { "name":"BWV103-1" , "url":"cd5Qf5G3xQ0" },
@@ -2900,8 +2710,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"146",
+"catalog":"146",
 "title":"Wir mussen durch viel Trubsal",
 "parts":[
 { "name":"BWV146-1" , "url":"3VHUL_fbMXc" },
@@ -2917,8 +2726,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"166",
+"catalog":"166",
 "title":"Wo gehest du hin?",
 "parts":[
 { "name":"BWV166-1" , "url":"KQorLN0oYTE" },
@@ -2932,8 +2740,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"108",
+"catalog":"108",
 "title":"Es ist euch gut, dass ich hingehe",
 "parts":[
 { "name":"BWV108-1" , "url":"8t4iyFmRtI8" },
@@ -2947,8 +2754,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"117",
+"catalog":"117",
 "title":"Sei Lob und Ehr dem hochsten Gut",
 "parts":[
 { "name":"BWV117-1" , "url":"25WaTwjSrSA" },
@@ -2965,8 +2771,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"86",
+"catalog":"86",
 "title":"Wahrlich, wahrlich, ich sage euch",
 "parts":[
 { "name":"BWV86-1" , "url":"tGNaRTASpe8" },
@@ -2980,8 +2785,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"87",
+"catalog":"87",
 "title":"Bisher habt ihr nichts gebeten in meinem Namen",
 "parts":[
 { "name":"BWV87-1" , "url":"RZU-t6NGCcU" },
@@ -2996,8 +2800,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"97",
+"catalog":"97",
 "title":"In allen meinen Taten",
 "parts":[
 { "name":"BWV97-1" , "url":"2680i4Vc_Lk" },
@@ -3014,8 +2817,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"44",
+"catalog":"44",
 "title":"Sie werden euch in den Bann tun",
 "parts":[
 { "name":"BWV44-1" , "url":"vGJPM00JUyI" },
@@ -3030,8 +2832,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"150",
+"catalog":"150",
 "title":"Nach dir, Herr, verlanget mich",
 "parts":[
 { "name":"BWV150-1" , "url":"cbLKpTsefbg" },
@@ -3046,8 +2847,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"183",
+"catalog":"183",
 "title":"Sie werden euch in den Bann tun",
 "parts":[
 { "name":"BWV183-1" , "url":"ui9oPdXVsyE" },
@@ -3060,8 +2860,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"228",
+"catalog":"228",
 "title":"Motet: Furchte dich nicht",
 "parts":[
 { "name":"BWV228-1" , "url":"u5cM4kS3Oac" }
@@ -3070,8 +2869,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"172",
+"catalog":"172",
 "title":"Erschallet, ihr Lieder, erklinget, ihr Saiten",
 "parts":[
 { "name":"BWV172-1" , "url":"f3NJw5TgdMY" },
@@ -3086,8 +2884,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"59",
+"catalog":"59",
 "title":"Wer mich liebet, der wird mein Wort halten",
 "parts":[
 { "name":"BWV59-1" , "url":"jOFEqz5_bz0" },
@@ -3100,8 +2897,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"74",
+"catalog":"74",
 "title":"Wer mich liebet, der wird mein Wort halten",
 "parts":[
 { "name":"BWV74-1" , "url":"dQLo98KJNTM" },
@@ -3117,8 +2913,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"34",
+"catalog":"34",
 "title":"O ewiges Feuer, o Ursprung der Liebe",
 "parts":[
 { "name":"BWV34-1" , "url":"4Ypqn74YRhI" },
@@ -3131,8 +2926,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"173",
+"catalog":"173",
 "title":"Erhohtes Fleisch und Blut",
 "parts":[
 { "name":"BWV173-1" , "url":"Mdum5vYwzjw" },
@@ -3146,8 +2940,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"68",
+"catalog":"68",
 "title":"Also hat Gott die Welt geliebt",
 "parts":[
 { "name":"BWV68-1" , "url":"Rlfpc-H1xbA" },
@@ -3160,8 +2953,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"174",
+"catalog":"174",
 "title":"Ich liebe den Hochsten von ganzem Gemute",
 "parts":[
 { "name":"BWV174-1" , "url":"pjgEiNhbhm4" },
@@ -3174,8 +2966,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"1048",
+"catalog":"1048",
 "title":"Brandenburg Concerto No. 3 in G Major",
 "parts":[
 { "name":"BWV1048-1" , "url":"5TaBm3QhbNg" },
@@ -3186,8 +2977,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"184",
+"catalog":"184",
 "title":"Erwünschtes Freudenlicht",
 "parts":[
 { "name":"BWV184-1" , "url":"pZsooHbaAd0" },
@@ -3201,8 +2991,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"175",
+"catalog":"175",
 "title":"Er rufet seine Schafen mit Namen",
 "parts":[
 { "name":"BWV175-1" , "url":"C3PZKx0o0I8" },
@@ -3217,8 +3006,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"194",
+"catalog":"194",
 "title":"Höchsterwünschtes Freudenfest",
 "parts":[
 { "name":"BWV194-1" , "url":"dftoWhCg1Z8" },
@@ -3232,8 +3020,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"176",
+"catalog":"176",
 "title":"Es ist ein trotzig und verzagt Ding",
 "parts":[
 { "name":"BWV176-1" , "url":"gYt8eJQ5aOo" },
@@ -3247,8 +3034,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"165",
+"catalog":"165",
 "title":"O heiliges Geist- und Wasserbad",
 "parts":[
 { "name":"BWV165-1" , "url":"i0DR8NtxXkY" },
@@ -3262,8 +3048,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"129",
+"catalog":"129",
 "title":"Gelobet sei der Herr mein Gott",
 "parts":[
 { "name":"BWV129-1" , "url":"Cnib6ukAImQ" },
@@ -3276,8 +3061,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"43",
+"catalog":"43",
 "title":"Gott fähret auf mit Jauchzen",
 "parts":[
 { "name":"BWV43-1" , "url":"5BshXtVxYQg" },
@@ -3296,8 +3080,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"37",
+"catalog":"37",
 "title":"Wer da glaubet und getauft wird, der wird selig werden",
 "parts":[
 { "name":"BWV37-1" , "url":"fe-GBTpbe-g" },
@@ -3311,8 +3094,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"128",
+"catalog":"128",
 "title":"Auf Christi Himmelfahrt allein",
 "parts":[
 { "name":"BWV128-1" , "url":"UkgM1sMuP1k" },
@@ -3325,8 +3107,7 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"BWV",
-"number":"11",
+"catalog":"11",
 "title":"Ascension Oratorio",
 "parts":[
 { "name":"BWV11-1" , "url":"LdATpiZbSVs" },
