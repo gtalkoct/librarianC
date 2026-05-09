@@ -1040,15 +1040,15 @@
 },
 {
 "composer":"J.S.Bach",
-"catalog":"69a",
+"catalog":"69",
 "title":"Lobe den Herrn, meine Seele",
 "parts":[
-{ "name":"BWV69a-1" , "url":"eTbkAEonS0M" },
-{ "name":"BWV69a-2" , "url":"TlQlAiUmEpQ" },
-{ "name":"BWV69a-3" , "url":"vT-J5nzOlQM" },
-{ "name":"BWV69a-4" , "url":"XRuYOktH3nA" },
-{ "name":"BWV69a-5" , "url":"UEPWN5K5GyE" },
-{ "name":"BWV69a-6" , "url":"FwqMz-bIQNU" }
+{ "name":"BWV69-1" , "url":"eTbkAEonS0M" },
+{ "name":"BWV69-2" , "url":"TlQlAiUmEpQ" },
+{ "name":"BWV69-3" , "url":"vT-J5nzOlQM" },
+{ "name":"BWV69-4" , "url":"XRuYOktH3nA" },
+{ "name":"BWV69-5" , "url":"UEPWN5K5GyE" },
+{ "name":"BWV69-6" , "url":"FwqMz-bIQNU" }
 ],
 "performer":"Gardiner"
 },
